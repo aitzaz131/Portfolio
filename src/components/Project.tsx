@@ -8,19 +8,134 @@ import mock06 from '../assets/images/mock06.png';
 import mock07 from '../assets/images/mock07.png';
 import mock08 from '../assets/images/mock08.png';
 import mock09 from '../assets/images/mock09.png';
-import mock10 from '../assets/images/mock10.png';
+import AuctionHunter from '../assets/images/Auction Hunter.png';
+import MotelSim from '../assets/images/Motel Simulator.png';
+import ShoppingMall from '../assets/images/Shopping Mall.png';
+import CookingWorld from '../assets/images/Cooking World.png';
+import FruitClinic from '../assets/images/Fruit Clinic.png';
+import Antistress from '../assets/images/Antistress.png';
+import MergeBlocks from '../assets/images/Merge Blocks.png';
+import Dentist from '../assets/images/Dentist.png';
+import CozyRooms from '../assets/images/Cozy Rooms.png';
+import Foodie from '../assets/images/Foodie.jpg';
+import DreamyCooking from '../assets/images/DreamyCooking.jpg';
+import CubeMerge from '../assets/images/Cube Merge.png';
+import GoalKick from '../assets/images/Goal Kick.png';
+import NinjaGun from '../assets/images/Ninja Gun.png';
+import MixPotion from '../assets/images/Mix Potion.png';
+import ScrewPuzzle from '../assets/images/Screw Puzzle.png';
+import FindOut from '../assets/images/Find Out.png';
+import ColorWhoper from '../assets/images/Color Whopper.png';
+import Diorama from '../assets/images/Diorama.png';
+import Ooze from '../assets/images/Ooze.png';
+
 import '../assets/styles/Project.scss';
 
 function Project() {
     return(
     <div className="projects-container" id="projects">
-        <h1>Personal Projects</h1>
-        <div className="projects-grid">
+        <h1>Projects</h1>
+            <div className="projects-grid">
+
             <div className="project">
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={mock10} className="zoom" alt="thumbnail" width="100%"/></a>
-                <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Filmate AI</h2></a>
-                <p>Developed movie finder app with semantic search and sentiment analysis using OpenAI GPT-3.5 Turbo, Qdrant, React, and Flask.</p>
-            </div>
+                    <a href="https://apps.apple.com/us/app/shopping-mall-idle-supermarket/id6449736755" target="_blank" rel="noreferrer"><img src={ShoppingMall} className="zoom" alt="thumbnail" width="100%"/></a>
+                    <a href="https://apps.apple.com/us/app/shopping-mall-idle-supermarket/id6449736755" target="_blank" rel="noreferrer"><h2>Shopping Mall</h2></a>
+                <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/cooking-world-restaurant-game/id6443723419" target="_blank" rel="noreferrer"><img src={CookingWorld} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/cooking-world-restaurant-game/id6443723419" target="_blank" rel="noreferrer"><h2>Cooking World</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/ua/app/fruit-clinic-doctor-surgeon/id6470895120" target="_blank" rel="noreferrer"><img src={FruitClinic} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/ua/app/fruit-clinic-doctor-surgeon/id6470895120" target="_blank" rel="noreferrer"><h2>Fruit Surgeon</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/cooking-world-restaurant-game/id6443723419" target="_blank" rel="noreferrer"><img src={Antistress} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/cooking-world-restaurant-game/id6443723419" target="_blank" rel="noreferrer"><h2>Antistress<br /> (Mini Games)</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/auction-hunter-simulator-bid/id6744613832" target="_blank" rel="noreferrer"><img src={AuctionHunter} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/auction-hunter-simulator-bid/id6744613832" target="_blank" rel="noreferrer"><h2>Auction Hunter</h2></a>
+                    <p></p>
+                </div>
+                
+                <div className="project">
+                    <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={MotelSim} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Motel Simulator</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/auction-hunter-simulator-bid/id6744613832" target="_blank" rel="noreferrer"><img src={MergeBlocks} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/auction-hunter-simulator-bid/id6744613832" target="_blank" rel="noreferrer"><h2>Merge Blocks</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/cozy-rooms-dream-home-puzzle/id6745123846" target="_blank" rel="noreferrer"><img src={CozyRooms} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/cozy-rooms-dream-home-puzzle/id6745123846" target="_blank" rel="noreferrer"><h2>Cozy Rooms</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://play.google.com/store/apps/details?id=com.artificialaesthetic.foodieskewersort" target="_blank" rel="noreferrer"><img src={Foodie} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.artificialaesthetic.foodieskewersort" target="_blank" rel="noreferrer"><h2>Foodie Skewer</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/2048-cube-merge/id1600039956" target="_blank" rel="noreferrer"><img src={CubeMerge} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/2048-cube-merge/id1600039956" target="_blank" rel="noreferrer"><h2>Cube Merge</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={GoalKick} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Goal kick</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={NinjaGun} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Ninja Gun</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={MixPotion} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Mix Potion</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={ScrewPuzzle} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Screw Puzzle</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={FindOut} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Find Out</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={ColorWhoper} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Color Whopper</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={Diorama} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Diorama</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={Ooze} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Rise Of Ooze</h2></a>
+                    <p></p>
+                </div>
+                <div className="project">
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={DreamyCooking} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Dreamy Cooking</h2></a>
+                    <p></p>
+                </div>
+
+
+                {/* }
             <div className="project">
                 <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><img src={mock09} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://yujisatojr.itch.io/highspeedchase" target="_blank" rel="noreferrer"><h2>High Speed Chase</h2></a>
@@ -65,7 +180,7 @@ function Project() {
                 <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><img src={mock01} className="zoom" alt="thumbnail" width="100%"/></a>
                 <a href="https://github.com/yujisatojr/submeowrine" target="_blank" rel="noreferrer"><h2>Submeowrine</h2></a>
                 <p>Developed and released an Android mobile application using Java and Android Studio that runs a 2D shooting game.</p>
-            </div>
+            </div> */}
         </div>
     </div>
     );

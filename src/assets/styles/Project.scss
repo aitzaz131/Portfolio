@@ -4,20 +4,34 @@
     padding: 5% 10%;
     text-align: left;
 }
-  
+
 .projects-container .projects-grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-gap: 50px;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    grid-gap: 30px; /* tighter spacing */
 }
   
 .projects-container .projects-grid .project {
     text-align: left;
 }
-  
+/* Add this block for font size */
+.projects-container .projects-grid .project h2 {
+    font-size: 14px; /* Adjust size: try 18px, 16px, etc. */
+    font-weight: 600; /* Optional for boldness */
+    text-align: center; /* center align */
+    margin: 10px 0; /* optional spacing above/below */
+}
+.projects-container .projects-grid .project img {
+    width: 80%; /* Try 80% of the container width */
+    max-width: 250px; /* Prevent it from being too big */
+    margin: 0 auto; /* Center the image */
+    display: block;
+}
+
 .project h2:hover {
     text-decoration: underline;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+    
 }
   
 .zoom {

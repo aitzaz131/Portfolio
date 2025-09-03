@@ -56,7 +56,7 @@ function Navigation({parentToChild, modeChange}: any) {
       console.error('Element with id "expertise" not found');  // Debugging: Log error if element is not found
     }
   };
-
+  
   const drawer = (
     <Box className="navigation-bar-responsive" onClick={handleDrawerToggle} sx={{ textAlign: 'center' }}>
       <p className="mobile-menu-top"><ListIcon/>Menu</p>
