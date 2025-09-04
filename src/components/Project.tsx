@@ -129,8 +129,8 @@ function Project() {
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={DreamyCooking} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Dreamy Cooking</h2></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.artificialaesthetic.dreamycooking" target="_blank" rel="noreferrer"><img src={DreamyCooking} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.artificialaesthetic.dreamycooking" target="_blank" rel="noreferrer"><h2>Dreamy Cooking</h2></a>
                     <p></p>
                 </div>
 
