@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.3e971bce.css",
+    "main.js": "/Portfolio/static/js/main.30990cc3.js",
+    "static/js/453.b05d8aa5.chunk.js": "/Portfolio/static/js/453.b05d8aa5.chunk.js",
+    "static/media/Motel Simulator.png": "/Portfolio/static/media/Motel Simulator.9f00096f623e28a50596.png",
+    "static/media/Screw Puzzle.png": "/Portfolio/static/media/Screw Puzzle.91dc4e43514c18e8a369.png",
+    "static/media/bg-light.png": "/Portfolio/static/media/bg-light.bac0efb485244a522981.png",
+    "static/media/Find Out.png": "/Portfolio/static/media/Find Out.0a61513283f29ad3a0e6.png",
+    "static/media/Auction Hunter.png": "/Portfolio/static/media/Auction Hunter.3532b6f9383a2c9ab9aa.png",
+    "static/media/Fruit Clinic.png": "/Portfolio/static/media/Fruit Clinic.3311fb78091fab867284.png",
+    "static/media/Cozy Rooms.png": "/Portfolio/static/media/Cozy Rooms.24507c6e84c96cf34c4e.png",
+    "static/media/bg-dark.png": "/Portfolio/static/media/bg-dark.f420c6b8458af72de935.png",
+    "static/media/Antistress.png": "/Portfolio/static/media/Antistress.9c23988ef4d38ef8d06d.png",
+    "static/media/Cube Merge.png": "/Portfolio/static/media/Cube Merge.9b4b7f7453ac9f0be044.png",
+    "static/media/Shopping Mall.png": "/Portfolio/static/media/Shopping Mall.edb742e3e1976ee86e47.png",
+    "static/media/Goal Kick.png": "/Portfolio/static/media/Goal Kick.849deb6151873c043a6c.png",
+    "static/media/DreamyCooking.jpg": "/Portfolio/static/media/DreamyCooking.b8f7e32ed674a6b98cbb.jpg",
+    "static/media/Diorama.png": "/Portfolio/static/media/Diorama.b63b3c6a56945e69d638.png",
+    "static/media/Ninja Gun.png": "/Portfolio/static/media/Ninja Gun.6dba2e208c342da89996.png",
+    "static/media/Cooking World.png": "/Portfolio/static/media/Cooking World.75d66bac1d2f0eb37b2b.png",
+    "static/media/Merge Blocks.png": "/Portfolio/static/media/Merge Blocks.08a3957bc12ea8a93073.png",
+    "static/media/Color Whopper.png": "/Portfolio/static/media/Color Whopper.0d0c4f1fafe2add1cd94.png",
+    "static/media/Mix Potion.png": "/Portfolio/static/media/Mix Potion.bce18809318bc8b06c04.png",
+    "static/media/Foodie.jpg": "/Portfolio/static/media/Foodie.fe185c734bd9102650bb.jpg",
+    "static/media/Ooze.png": "/Portfolio/static/media/Ooze.7fd23357e8e0b4333887.png",
+    "index.html": "/Portfolio/index.html",
+    "main.3e971bce.css.map": "/Portfolio/static/css/main.3e971bce.css.map",
+    "main.30990cc3.js.map": "/Portfolio/static/js/main.30990cc3.js.map",
+    "453.b05d8aa5.chunk.js.map": "/Portfolio/static/js/453.b05d8aa5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e971bce.css",
+    "static/js/main.30990cc3.js"
+  ]
+}
