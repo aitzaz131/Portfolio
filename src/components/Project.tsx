@@ -53,8 +53,8 @@ function Project() {
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/cooking-world-restaurant-game/id6443723419" target="_blank" rel="noreferrer"><img src={Antistress} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/cooking-world-restaurant-game/id6443723419" target="_blank" rel="noreferrer"><h2>Antistress<br /> (Mini Games)</h2></a>
+                    <a href="https://apps.apple.com/us/app/pop-it-fidget-toys-fun/id1575951495" target="_blank" rel="noreferrer"><img src={Antistress} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/pop-it-fidget-toys-fun/id1575951495" target="_blank" rel="noreferrer"><h2>Antistress<br /> (Mini Games)</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
@@ -64,13 +64,13 @@ function Project() {
                 </div>
                 
                 <div className="project">
-                    <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><img src={MotelSim} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://www.filmate.club/" target="_blank" rel="noreferrer"><h2>Motel Simulator</h2></a>
+                    <a href="https://apps.apple.com/us/app/motel-simulator/id6738133826" target="_blank" rel="noreferrer"><img src={MotelSim} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/motel-simulator/id6738133826" target="_blank" rel="noreferrer"><h2>Motel Simulator</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/auction-hunter-simulator-bid/id6744613832" target="_blank" rel="noreferrer"><img src={MergeBlocks} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/auction-hunter-simulator-bid/id6744613832" target="_blank" rel="noreferrer"><h2>Merge Blocks</h2></a>
+                    <a href="https://apps.apple.com/us/app/merge-block-number-drop/id6448633683" target="_blank" rel="noreferrer"><img src={MergeBlocks} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/merge-block-number-drop/id6448633683" target="_blank" rel="noreferrer"><h2>Merge Blocks</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
