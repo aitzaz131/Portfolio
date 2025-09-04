@@ -94,38 +94,38 @@ function Project() {
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={NinjaGun} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Ninja Gun</h2></a>
+                    <a href="https://apps.apple.com/us/app/ninja-gun-hitty-shoot/id1632262275" target="_blank" rel="noreferrer"><img src={NinjaGun} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/ninja-gun-hitty-shoot/id1632262275" target="_blank" rel="noreferrer"><h2>Ninja Gun</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={MixPotion} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Mix Potion</h2></a>
+                    <a href="https://apps.apple.com/us/app/mix-potion/id1511505418" target="_blank" rel="noreferrer"><img src={MixPotion} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/mix-potion/id1511505418" target="_blank" rel="noreferrer"><h2>Mix Potion</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={ScrewPuzzle} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Screw Puzzle</h2></a>
+                    <a href="https://apps.apple.com/us/app/nuts-and-screws/id6471582523" target="_blank" rel="noreferrer"><img src={ScrewPuzzle} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/nuts-and-screws/id6471582523" target="_blank" rel="noreferrer"><h2>Screw Puzzle</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={FindOut} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Find Out</h2></a>
+                    <a href="https://apps.apple.com/us/developer/eitezaz-ahmad/id1027303006?see-all=i-phonei-pad-apps" target="_blank" rel="noreferrer"><img src={FindOut} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/developer/eitezaz-ahmad/id1027303006?see-all=i-phonei-pad-apps" target="_blank" rel="noreferrer"><h2>Find Out</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={ColorWhoper} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Color Whopper</h2></a>
+                    <a href="https://apps.apple.com/us/app/color-whopper-wrecking-tower/id1471554048" target="_blank" rel="noreferrer"><img src={ColorWhoper} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://apps.apple.com/us/app/color-whopper-wrecking-tower/id1471554048" target="_blank" rel="noreferrer"><h2>Color Whopper</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={Diorama} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Diorama</h2></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.case7.HiddenObjects3D.Diorama" target="_blank" rel="noreferrer"><img src={Diorama} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.case7.HiddenObjects3D.Diorama" target="_blank" rel="noreferrer"><h2>Diorama</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><img src={Ooze} className="zoom" alt="thumbnail" width="100%" /></a>
-                    <a href="https://apps.apple.com/us/app/goal-kick-soccer-football/id1626487606" target="_blank" rel="noreferrer"><h2>Rise Of Ooze</h2></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.case7.riseofgo" target="_blank" rel="noreferrer"><img src={Ooze} className="zoom" alt="thumbnail" width="100%" /></a>
+                    <a href="https://play.google.com/store/apps/details?id=com.case7.riseofgo" target="_blank" rel="noreferrer"><h2>Rise Of Ooze</h2></a>
                     <p></p>
                 </div>
                 <div className="project">
